@@ -11,30 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelors of Science in Mathmetics, Chonnam National University, 2010
+* Bachelors of Science in Biothechnology, Chonnam National University, 2010
+* Masters of Science in Biotechnoloty, Chonnam National University, 2012
+* Doctor of Philosophy in Bioinformatics, Seoul National University, 2021
+  * Supervisor: Professor Sun Kim
 
-Work experience
+Professional Research Experiences
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Korea National Institute of Health (December 2020 - Present)
+  Senior Manager, Division of Healthcare and Artificial Intelligence, Republic of Korea
+  * Leading a project to collect and analyze large-scale clinical and multi-omics datasets from COVID-19 patients
+  * Leading research projects to understand brain tumor and colorectal cancers with single cell omics data including spatial transcriptomics.
+  * Leading research project to predict risk prediction of ~ 
+  * Setting up the pipelines of deep learning algorithms for healthcare and biomedicine data
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Korea National Institute of Health (April 2014 - December 2020)
+   Researcher, Division of Intractable Diseases Research, Republic of Korea
+  * Setting up the pipelines for next-generation sequencing (NGS) data
+  * Multi-omics integration and network modeling of genetic and epigenetic data
+  * Standardization of genetic quality control testing to reveal genomic stability human pluripotent stem cells for biobanking
+
+* Chonnam National University (September 2012 - August 2013)
+   Research Assistant, Republic of Korea
+  * Instructing of molecular experiments to undergraduate students
+  * Molecular experiments in Biochemistry (antibodies/protein work)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical Skills
+  * Codes Python(Keras/Tensorflow) | R
+  * Database SQL
+  * Operating system Linux |Unix Bash Shell
+
+* Molecular Experiments in Laboratory
+  * Biochemistry (protein analysis)
+  * Molecular Bioloty
+  * Microbiology
+
+* Language
+  * Korean (Native)
+  * English (Profient)
 
 Publications
 ======
@@ -42,17 +60,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
