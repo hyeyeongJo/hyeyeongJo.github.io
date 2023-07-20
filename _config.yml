@@ -1,14 +1,19 @@
-
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-SouthKorea"
-title                    : "Hye-Yeong Jo / Bioinformatician"
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Hye-Yeong Jo"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://hyeyeongJo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hyeyongJo/hyeyeongJo.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -75,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hye-Yeong Jo, phD"
-  avatar           : "profile.jpeg"
-  bio              : "Senior Manager, Scienist"
-  location         : "Korea National Institute of Health"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=hye-yeong+jo&sort=date"
-  googlescholar    : "https://scholar.google.com/citations?user=a3Vy6jUAAAAJ&hl=en"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -91,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hyeyeongJo"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-2343-7729"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -304,5 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
->>>>>>> 035796d7d7566f9ed129ed2cb956ac0840d3737f >>>>>>>
