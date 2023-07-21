@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Bachelors of Science in Mathmetics, Chonnam National University, 2010
-* Bachelors of Science in Biothechnology, Chonnam National University, 2010
-* Masters of Science in Biotechnoloty, Chonnam National University, 2012
-* Doctor of Philosophy in Bioinformatics, Seoul National University, 2021
+* B.S in Mathmetics, 2010
+* B.S in Biothechnology, 2010
+* M.S in Biotechnoloty, 2012
+* Ph.D in Bioinformatics, Seoul National University, 2021
   * Supervisor: Professor Sun Kim
 
 Professional Research Experiences
