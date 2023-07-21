@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-Korea"
-title                    : "Hye-YeongJo / Bioinformaticiian
+title                    : "Hye-YeongJo / Bioinformatician"
 title_separator          : "-"
-name                     : &name "Hye-Yeong Jo"
+name                     : &name "Your Name"
 description              : &description "Seninor Manager, Scientist"
 url                      : https://hyeyeongJo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
