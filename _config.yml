@@ -9,7 +9,7 @@
 locale                   : "en-Korea"
 title                    : "Hye-YeongJo / Bioinformatician"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hye-Yeong Jo"
 description              : &description "Seninor Manager, Scientist"
 url                      : https://hyeyeongJo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
