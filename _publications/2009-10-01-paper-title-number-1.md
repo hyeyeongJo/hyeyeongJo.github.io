@@ -10,6 +10,6 @@ citation: 'H-Y Jo et al.,. (2016). &quot;Application of whole-exome sequencing f
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://hyeyeongJo.github.io/files/publication1.pdf)
 
 Recommended citation: H-Y Jo et al., (2016). "Application of whole-exome sequencing for detecting copy number variants in CMT1A/HNPP." <i>Journal 1</i>. 1(2).
