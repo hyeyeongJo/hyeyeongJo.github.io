@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'Clinical Genetics'
 paperurl: 'http://hyeyeongJo.github.io/files/publication1.pdf'
 citation: 'H-Y Jo et al.,. (2016). &quot;Application of whole-exome sequencing for detecting copy number variants in CMT1A/HNPP.&quot; <i>Journal 1</i>. 1(2).'
 ---
@@ -12,4 +12,4 @@ Large insertions and deletions (indels), including copy number variations (CNVs)
 
 [Download paper here](http://hyeyeongJo.github.io/files/publication1.pdf)
 
-Recommended citation: H-Y Jo et al., (2016). "Application of whole-exome sequencing for detecting copy number variants in CMT1A/HNPP." <i>Journal 1</i>. 1(2).
+Recommended citation: H-Y Jo et al., (2016). "Application of whole-exome sequencing for detecting copy number variants in CMT1A/HNPP." <i>Clinical Genetics</i>. 1(2).
