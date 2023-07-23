@@ -1,15 +1,16 @@
 ---
-title: "Drug Discovery Platform Targeting M. tuberculosis with Human Embryonic Stem Cell-Derived Macrophages"
+title: "Korea National Stem Cell Bank"
 collection: publications
-permalink: /publication/2019-12-10-publication5
-excerpt: 'A major limitation in anti-tuberculosis drug screening is the lack of reliable and scalable models for homogeneous human primary macrophage cells of non-cancer origin. Here we report a modified protocol for generating homogeneous populations of macrophage-like cells from human embryonic stem cells. The induced macrophages, referred to as iMACs, presented similar transcriptomic profiles and characteristic immunological features of classical macrophages and were permissive to viral and bacterial infection, in particular Mycobacterium tuberculosis (Mtb). More importantly, iMAC production was amenable to scale up. To evaluate iMAC efficiency in high-throughput anti-tuberculosis drug screening, we performed a phenotypic screening against intracellular Mtb, involving a library of 3,716 compounds that included FDA-approved drugs and other bioactive compounds. Our primary screen identified 120 hits, which were validated in a secondary screen by dose-intracellular and -extracellular Mtb assays. Our confirmatory studies identified a novel anti-Mtb compound, 10-DEBC, also showing activity against drug-resistant strains.'
-date: 2019-12-10
-venue: 'Stem Cell Reports'
-paperurl: 'http://hyeyeongJo.github.io/files/publication5.pdf'
-citation: 'H-Y Jo et al.,. (2019). &quot;Drug Discovery Platform Targeting M. tuberculosis with Human Embryonic Stem Cell-Derived Macrophages.&quot; <i>Stem Cell Reports</i>. 13(6):980-991.'
+permalink: /publication/2021-05-01-publication9
+excerpt: 'The Korea National Stem Cell Bank has been banking pluripotent stem cell (PSC) lines since 2012. Quality-controlled and ethically sourced cell lines were developed for distribution. Currently (as of 2020), among the 69 deposited lines, 4 research-grade human embryonic stem cell (hESC) lines and 19 induced pluripotent stem cell (iPSC) lines have been distributed. Good manufacturing practices (GMP)-compliant homozygous iPSC lines for regenerative medicine with homozygous HLA haplotypes that cover 51% of the Korean population have been deposited as well. To ensure the quality of the cell lines, we performed eighteen different quality tests on the identity, sterility, consistency, stability and safety of the cell lines. Regarding genetic stability, we are collecting SNPchip, WES, Methyl-seq, and RNA-seq data, which are open to the public.s.'
+date: 2021-05-01
+venue: 'Stem Cell Research'
+paperurl: 'http://hyeyeongJo.github.io/files/publication9.pdf'
+citation: 'Jung-Hyun Kim et al.,. (2021). &quot;Korea National Stem Cell Bank.&quot; <i>Stem Cell Research</i>. 53:102270.'
 ---
-A major limitation in anti-tuberculosis drug screening is the lack of reliable and scalable models for homogeneous human primary macrophage cells of non-cancer origin. Here we report a modified protocol for generating homogeneous populations of macrophage-like cells from human embryonic stem cells. The induced macrophages, referred to as iMACs, presented similar transcriptomic profiles and characteristic immunological features of classical macrophages and were permissive to viral and bacterial infection, in particular Mycobacterium tuberculosis (Mtb). More importantly, iMAC production was amenable to scale up. To evaluate iMAC efficiency in high-throughput anti-tuberculosis drug screening, we performed a phenotypic screening against intracellular Mtb, involving a library of 3,716 compounds that included FDA-approved drugs and other bioactive compounds. Our primary screen identified 120 hits, which were validated in a secondary screen by dose-intracellular and -extracellular Mtb assays. Our confirmatory studies identified a novel anti-Mtb compound, 10-DEBC, also showing activity against drug-resistant strains.
-[Download paper here](http://hyeyeongJo.github.io/files/publication5.pdf)
+The Korea National Stem Cell Bank has been banking pluripotent stem cell (PSC) lines since 2012. Quality-controlled and ethically sourced cell lines were developed for distribution. Currently (as of 2020), among the 69 deposited lines, 4 research-grade human embryonic stem cell (hESC) lines and 19 induced pluripotent stem cell (iPSC) lines have been distributed. Good manufacturing practices (GMP)-compliant homozygous iPSC lines for regenerative medicine with homozygous HLA haplotypes that cover 51% of the Korean population have been deposited as well. To ensure the quality of the cell lines, we performed eighteen different quality tests on the identity, sterility, consistency, stability and safety of the cell lines. Regarding genetic stability, we are collecting SNPchip, WES, Methyl-seq, and RNA-seq data, which are open to the public.
 
-Recommended citation: H-Y Jo et al., (2019). "Drug Discovery Platform Targeting M. tuberculosis with Human Embryonic Stem Cell-Derived Macrophages." <i>Stem Cell Reports</i>. 13(6):980-991.
+[Download paper here](http://hyeyeongJo.github.io/files/publication9.pdf)
+
+Recommended citation: Jung-Hyun Kim et al., (2021). "Korea National Stem Cell Bank." <i>Stem Cell Research</i>. 53:102270.
 
