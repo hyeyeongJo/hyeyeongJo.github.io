@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 2"
+title: "Publication2"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2017-08-09-publication2
+excerpt: 'Insertion and deletion (INDEL) mutations, the most common type of structural variance, are associated with several human diseases. The detection of INDELs through next-generation sequencing (NGS) is becoming more common due to the decrease in costs, the increase in efficiency, and sensitivity improvements demonstrated by the various sequencing platforms and analytical tools. However, there are still many errors associated with INDEL variant calling, and distinguishing INDELs from errors in NGS remains challenging. To evaluate INDEL calling from whole-exome sequencing (WES) data, we performed Sanger sequencing for all INDELs called from the several calling algorithm. We compared the performance of the four algorithms (i.e. GATK, SAMtools, Dindel, and Freebayes) for INDEL detection from the same sample. We examined the sensitivity and PPV of GATK (90.2 and 89.5%, respectively), SAMtools (75.3 and 94.4%, respectively), Dindel (90.1 and 88.6%, respectively), and Freebayes (80.1 and 94.4%, respectively). GATK had the highest sensitivity. Furthermore, we identified INDELs with high PPV (4 algorithms intersection: 98.7%, 3 algorithms intersection: 97.6%, and GATK and SAMtools intersection INDELs: 97.6%). We presented two key sources of difficulties in accurate INDEL detection: 1) the presence of repeat, and 2) heterozygous INDELs. Herein we could suggest the accessible algorithms that selectively reduce error rates and thereby facilitate INDEL detection. Our study may also serve as a basis for understanding the accuracy and completeness of INDEL detection.'
+date: 2017-08-09
+venue: 'PLoS One'
+paperurl: 'http://academicpages.github.io/files/publication2.pdf'
+citation: 'Bo-Young Kim et al., (2017). &quot;Optimized detection of insertions/deletions (INDELs) in whole-exome sequencing data.&quot; <i>PLoS One1</i>. 12(8).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Insertion and deletion (INDEL) mutations, the most common type of structural variance, are associated with several human diseases. The detection of INDELs through next-generation sequencing (NGS) is becoming more common due to the decrease in costs, the increase in efficiency, and sensitivity improvements demonstrated by the various sequencing platforms and analytical tools. However, there are still many errors associated with INDEL variant calling, and distinguishing INDELs from errors in NGS remains challenging. To evaluate INDEL calling from whole-exome sequencing (WES) data, we performed Sanger sequencing for all INDELs called from the several calling algorithm. We compared the performance of the four algorithms (i.e. GATK, SAMtools, Dindel, and Freebayes) for INDEL detection from the same sample. We examined the sensitivity and PPV of GATK (90.2 and 89.5%, respectively), SAMtools (75.3 and 94.4%, respectively), Dindel (90.1 and 88.6%, respectively), and Freebayes (80.1 and 94.4%, respectively). GATK had the highest sensitivity. Furthermore, we identified INDELs with high PPV (4 algorithms intersection: 98.7%, 3 algorithms intersection: 97.6%, and GATK and SAMtools intersection INDELs: 97.6%). We presented two key sources of difficulties in accurate INDEL detection: 1) the presence of repeat, and 2) heterozygous INDELs. Herein we could suggest the accessible algorithms that selectively reduce error rates and thereby facilitate INDEL detection. Our study may also serve as a basis for understanding the accuracy and completeness of INDEL detection.
+
+
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Bo-Young Kim et al., (2017). "Optimized detection of insertions/deletions (INDELs) in whole-exome sequencing data." <i>PLoS One</i>. 12(8).
