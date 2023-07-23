@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Multi-omics project for COVID-19 patients"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
