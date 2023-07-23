@@ -27,7 +27,3 @@ News
   * A prognostic model for classification of COVID-19 severity based on clinical and laboratory testing data 
 * Got an award in KNIH conference in Dec. 2022
   * Outstanding researcher award in 2022 in KNIH
-
-For more info
-------
-More info about Hye-Yeong Jo can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
