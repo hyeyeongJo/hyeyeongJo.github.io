@@ -8,9 +8,14 @@ redirect_from:
 ---
 
 ## Hye-Yeong Jo, ph.D.
-Senior Manager, Scientist
+Senior Manager, Scientist<br /> 
+Division of Healthcare and Artificial Intelligence<br /> 
+Department of Precision Medicine<br /> 
+Korea National Institute of Health<br /> 
+Korea Disease Control and Prevention Agency
 
-jhy1227@korea.kr
+<br /> 
+jhy1227@korea.kr<br /> 
 hyjo.knih@gmail.com
 
 <address>
