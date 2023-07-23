@@ -10,7 +10,7 @@ Conclusions: This study revealed heterogeneity among tumors in the same patient 
 date: 2017-10-02
 venue: 'BMC Medical Genetics'
 paperurl: 'http://hyeyeongJo.github.io/files/publication3.pdf'
-citation: 'Bo-Young Kim et al., (2015). &quot;Paper Title Number 3.&quot; <i>BMC Medical Genetics</i>. 18(1):106.'
+citation: 'Bo-Young Kim et al., (2017). &quot;Genetic analysis of parathyroid and pancreatic tumors in a patient with multiple endocrine neoplasia type 1 using whole-exome sequencing.&quot; <i>BMC Medical Genetics</i>. 18(1):106.'
 ---
 Background: Multiple endocrine neoplasia type 1 (MEN1) syndrome is an autosomal dominant hereditary disorder characterized by the presence of endocrine tumors affecting the parathyroid, pancreas, and pituitary. A heterozygous germline inactivating mutation in the MEN1 gene (first hit) may be followed by somatic loss of the remaining normal copy or somatic mutations in the MEN1 gene (second hit). Whole-exome sequencing has been successfully used to elucidate the mutations associated with the different types of tumors.
 
