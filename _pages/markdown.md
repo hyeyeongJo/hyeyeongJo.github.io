@@ -16,7 +16,7 @@ Korea Disease Control and Prevention Agency
 
 <br /> 
 jhy1227@korea.kr<br /> 
-hyjo.knih@gmail.com
+hyjo.knih@gmail.com<br /> 
 
 <address>
   Osongsangmyeong2-ro 187<br /> Osong <br /> Republic of Korea
