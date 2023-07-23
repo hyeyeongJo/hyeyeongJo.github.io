@@ -10,6 +10,15 @@ redirect_from:
 
 Welcome to visit this Hye-Yeong Jo’s Web page.
 
+
+Research Interests
+======
+Multi-omics integration, Single-cell omics, Bioinformatics </br>
+Genomics, Epigenetics, eep learning, Time-series analysis, Regulatory Networks </br>
+Disease Risk Prediction
+
+
+
 News
 ======
 * Organize a session in Korea Genome Organization (KOGO) Winter symposium
