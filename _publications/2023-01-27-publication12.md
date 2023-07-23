@@ -1,15 +1,28 @@
 ---
-title: "Drug Discovery Platform Targeting M. tuberculosis with Human Embryonic Stem Cell-Derived Macrophages"
+title: "Elevated IFNA1 and suppressed IL12p40 associated with persistent hyperinflammation in COVID-19 pneumonia"
 collection: publications
-permalink: /publication/2019-12-10-publication5
-excerpt: 'A major limitation in anti-tuberculosis drug screening is the lack of reliable and scalable models for homogeneous human primary macrophage cells of non-cancer origin. Here we report a modified protocol for generating homogeneous populations of macrophage-like cells from human embryonic stem cells. The induced macrophages, referred to as iMACs, presented similar transcriptomic profiles and characteristic immunological features of classical macrophages and were permissive to viral and bacterial infection, in particular Mycobacterium tuberculosis (Mtb). More importantly, iMAC production was amenable to scale up. To evaluate iMAC efficiency in high-throughput anti-tuberculosis drug screening, we performed a phenotypic screening against intracellular Mtb, involving a library of 3,716 compounds that included FDA-approved drugs and other bioactive compounds. Our primary screen identified 120 hits, which were validated in a secondary screen by dose-intracellular and -extracellular Mtb assays. Our confirmatory studies identified a novel anti-Mtb compound, 10-DEBC, also showing activity against drug-resistant strains.'
-date: 2019-12-10
-venue: 'Stem Cell Reports'
-paperurl: 'http://hyeyeongJo.github.io/files/publication5.pdf'
-citation: 'H-Y Jo et al.,. (2019). &quot;Drug Discovery Platform Targeting M. tuberculosis with Human Embryonic Stem Cell-Derived Macrophages.&quot; <i>Stem Cell Reports</i>. 13(6):980-991.'
----
-A major limitation in anti-tuberculosis drug screening is the lack of reliable and scalable models for homogeneous human primary macrophage cells of non-cancer origin. Here we report a modified protocol for generating homogeneous populations of macrophage-like cells from human embryonic stem cells. The induced macrophages, referred to as iMACs, presented similar transcriptomic profiles and characteristic immunological features of classical macrophages and were permissive to viral and bacterial infection, in particular Mycobacterium tuberculosis (Mtb). More importantly, iMAC production was amenable to scale up. To evaluate iMAC efficiency in high-throughput anti-tuberculosis drug screening, we performed a phenotypic screening against intracellular Mtb, involving a library of 3,716 compounds that included FDA-approved drugs and other bioactive compounds. Our primary screen identified 120 hits, which were validated in a secondary screen by dose-intracellular and -extracellular Mtb assays. Our confirmatory studies identified a novel anti-Mtb compound, 10-DEBC, also showing activity against drug-resistant strains.
-[Download paper here](http://hyeyeongJo.github.io/files/publication5.pdf)
+permalink: /publication/2023-01-27-publication12
+excerpt: 'Introduction: Despite of massive endeavors to characterize inflammation in COVID-19 patients, the core network of inflammatory mediators responsible for severe pneumonia stillremain remains elusive.
 
-Recommended citation: H-Y Jo et al., (2019). "Drug Discovery Platform Targeting M. tuberculosis with Human Embryonic Stem Cell-Derived Macrophages." <i>Stem Cell Reports</i>. 13(6):980-991.
+Methods: Here, we performed quantitative and kinetic analysis of 191 inflammatory factors in 955 plasma samples from 80 normal controls (sample n = 80) and 347 confirmed COVID-19 pneumonia patients (sample n = 875), including 8 deceased patients.
+
+Results: Differential expression analysis showed that 76% of plasmaproteins (145 factors) were upregulated in severe COVID-19 patients comparedwith moderate patients, confirming overt inflammatory responses in severe COVID-19 pneumonia patients. Global correlation analysis of the plasma factorsrevealed two core inflammatory modules, core I and II, comprising mainly myeloid cell and lymphoid cell compartments, respectively, with enhanced impact in a severity-dependent manner. We observed elevated IFNA1 and suppressed IL12p40, presenting a robust inverse correlation in severe patients, which was strongly associated with persistent hyperinflammation in 8.3% of moderate pneumonia patients and 59.4% of severe patients.
+
+Discussion: Aberrant persistence of pulmonary and systemic inflammation might be associated with long COVID-19 sequelae. Our comprehensive analysis of inflammatory mediators in plasmarevealed the complexity of pneumonic inflammation in COVID-19 patients anddefined critical modules responsible for severe pneumonic progression.'
+date: 2023-01-27
+venue: 'Frontiers in Immunology'
+paperurl: 'http://hyeyeongJo.github.io/files/publication12.pdf'
+citation: 'Kyeongseok Jeon et al.,. (2023). &quot;Elevated IFNA1 and suppressed IL12p40 associated with persistent hyperinflammation in COVID-19 pneumonia.&quot; <i>Frontiers in Immunology</i>. 14:1101808.'
+---
+Introduction: Despite of massive endeavors to characterize inflammation in COVID-19 patients, the core network of inflammatory mediators responsible for severe pneumonia stillremain remains elusive.
+
+Methods: Here, we performed quantitative and kinetic analysis of 191 inflammatory factors in 955 plasma samples from 80 normal controls (sample n = 80) and 347 confirmed COVID-19 pneumonia patients (sample n = 875), including 8 deceased patients.
+
+Results: Differential expression analysis showed that 76% of plasmaproteins (145 factors) were upregulated in severe COVID-19 patients comparedwith moderate patients, confirming overt inflammatory responses in severe COVID-19 pneumonia patients. Global correlation analysis of the plasma factorsrevealed two core inflammatory modules, core I and II, comprising mainly myeloid cell and lymphoid cell compartments, respectively, with enhanced impact in a severity-dependent manner. We observed elevated IFNA1 and suppressed IL12p40, presenting a robust inverse correlation in severe patients, which was strongly associated with persistent hyperinflammation in 8.3% of moderate pneumonia patients and 59.4% of severe patients.
+
+Discussion: Aberrant persistence of pulmonary and systemic inflammation might be associated with long COVID-19 sequelae. Our comprehensive analysis of inflammatory mediators in plasmarevealed the complexity of pneumonic inflammation in COVID-19 patients anddefined critical modules responsible for severe pneumonic progression.
+
+[Download paper here](http://hyeyeongJo.github.io/files/publication12.pdf)
+
+Recommended citation: Kyeongseok Jeon et al., (2023). "Elevated IFNA1 and suppressed IL12p40 associated with persistent hyperinflammation in COVID-19 pneumonia." <i>Frontiers in Immunology</i>. 14:1101808.
 
