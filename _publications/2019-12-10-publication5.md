@@ -6,9 +6,9 @@ excerpt: 'A major limitation in anti-tuberculosis drug screening is the lack of 
 date: 2019-12-10
 venue: 'Stem Cell Reports'
 paperurl: 'http://hyeyeongJo.github.io/files/publication5.pdf'
-citation: 'H-Y Jo et al.,. (2019). &quot;Drug Discovery Platform Targeting M. tuberculosis with Human Embryonic Stem Cell-Derived Macrophages.&quot; <i>Stem Cell Reports</i>. 13(6):980-991.'
+citation: 'Hye-Yeong Jo et al.,. (2019). &quot;Drug Discovery Platform Targeting M. tuberculosis with Human Embryonic Stem Cell-Derived Macrophages.&quot; <i>Stem Cell Reports</i>. 13(6):980-991.'
 ---
 A major limitation in anti-tuberculosis drug screening is the lack of reliable and scalable models for homogeneous human primary macrophage cells of non-cancer origin. Here we report a modified protocol for generating homogeneous populations of macrophage-like cells from human embryonic stem cells. The induced macrophages, referred to as iMACs, presented similar transcriptomic profiles and characteristic immunological features of classical macrophages and were permissive to viral and bacterial infection, in particular Mycobacterium tuberculosis (Mtb). More importantly, iMAC production was amenable to scale up. To evaluate iMAC efficiency in high-throughput anti-tuberculosis drug screening, we performed a phenotypic screening against intracellular Mtb, involving a library of 3,716 compounds that included FDA-approved drugs and other bioactive compounds. Our primary screen identified 120 hits, which were validated in a secondary screen by dose-intracellular and -extracellular Mtb assays. Our confirmatory studies identified a novel anti-Mtb compound, 10-DEBC, also showing activity against drug-resistant strains.
 [Download paper here](http://hyeyeongJo.github.io/files/publication5.pdf)
 
-Recommended citation: H-Y Jo et al., (2019). "Drug Discovery Platform Targeting M. tuberculosis with Human Embryonic Stem Cell-Derived Macrophages." <i>Stem Cell Reports</i>. 13(6):980-991.
+Recommended citation: Hye-Yeong Jo et al., (2019). "Drug Discovery Platform Targeting M. tuberculosis with Human Embryonic Stem Cell-Derived Macrophages." <i>Stem Cell Reports</i>. 13(6):980-991.
