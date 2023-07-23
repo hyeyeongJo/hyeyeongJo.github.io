@@ -1,7 +1,5 @@
 ---
-title: "Multi-omics project for COVID-19 patients"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Comprehensive multi-omics data collection from COVID-19 patients"
+excerpt: "Since the outbreak of COVID-19 pandemic in 2019,  I’m leading a large-scale project, on a national scale, to comprehensively collect multi-omics dataset, including Whole-genome sequencing(WGS), HLA typing, bulk T/BCR-seq, single cell RNA sequencing (scRNA-seq) with T/BCR-seq at a single cell resolution, and expression profiling for 192 cytokines,  as well as clinical data and laboratory testing data, through collaboration with 7 distinct hospitals in South Korea. Biospecimen, such as Peripheral blood mononuclear cells (PBMC), Plasma, Serum, Urine and NPS, is also being collected and deposited at National Biobank in Korea, and is distributed for approved researchers.  Currently,  additional proteomic and epigenetic data is being actively collected to make the immunological mechanisms by SARS-CoV-2 understand in detail, which , in turn, prevent upcoming virus in the future. It is expected that this project would provide invaluable insights and discoveries in the era of crisis caused by infectious diseases and understand detailed immunology in terms of host defensive mechanisms throughput multi-layer data. <br/><img src='/images/Research_Project1.png'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
