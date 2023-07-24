@@ -41,9 +41,9 @@ Professional Research Experiences
 Skills
 ======
 * Technical Skills
-  * Codes Python(Keras/Tensorflow) | R
+  * Codes Python(Keras/Tensorflow), R
   * Database SQL
-  * Operating system Linux |Unix Bash Shell
+  * Operating system Linux, Unix Bash Shell
 
 * Molecular Experiments in Laboratory
   * Biochemistry (protein analysis)
