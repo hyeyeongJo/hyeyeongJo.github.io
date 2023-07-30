@@ -20,8 +20,10 @@ Disease Risk Prediction
 
 News
 ======
+* Organize and host a symposium in IEEE EMBC 2023
+  * title : Application of Multiomics Study on COVID 19
 * Organize a session in Korea Genome Organization (KOGO) Winter symposium
-  * Session : Application of Multiomics Study on COVID 19
+  * title : Application of Multiomics Study on COVID 19
 * Accepted a paper in IEEE BigComp 2023
   * A prognostic model for classification of COVID-19 severity based on clinical and laboratory testing data 
 * Got an award in KNIH conference in Dec. 2022
