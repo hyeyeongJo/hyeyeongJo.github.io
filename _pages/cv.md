@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S in Mathmetics, 2010
-* B.S in Biothechnology, 2010
-* M.S in Biotechnoloty, 2012
+* B.S in Biotechnology, 2010
+* M.S in Biochemistry, 2012
 * Ph.D in Bioinformatics, Seoul National University, 2021
   * Supervisor: Professor Sun Kim
 
@@ -23,7 +23,7 @@ Professional Research Experiences
   Senior Manager, Division of Healthcare and Artificial Intelligence, Republic of Korea
   * Leading a project to collect and analyze large-scale clinical and multi-omics datasets from COVID-19 patients
   * Leading research projects to understand brain tumor and colorectal cancers with single cell omics data including spatial transcriptomics.
-  * Leading research project to predict risk prediction of ~ 
+  * Leading research project to predict risk prediction using heterogeneous healthcare dataset. 
   * Setting up the pipelines of deep learning algorithms for healthcare and biomedicine data
 
 
