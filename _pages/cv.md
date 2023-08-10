@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S in Mathmetics, 2010
+* B.S in Mathematics, 2010
 * B.S in Biotechnology, 2010
 * M.S in Biochemistry, 2012
 * Ph.D in Bioinformatics, Seoul National University, 2021
