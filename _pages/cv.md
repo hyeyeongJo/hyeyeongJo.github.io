@@ -29,7 +29,7 @@ Professional Research Experiences
 
 * Korea National Institute of Health (April 2014 - December 2020)
    Researcher, Division of Intractable Diseases Research, Republic of Korea
-  * Setting up the pipelines for next-generation sequencing (NGS) data
+  * Setting up the pipelines for next-generation sequencing (NGS) data, including Whole-genome sequencing(WGS), SNP chip, bulk RNA-seq, Targeted Bisulfite-seq, ChIP-seq, and ATACseq. 
   * Multi-omics integration and network modeling of genetic and epigenetic data
   * Standardization of genetic quality control testing to reveal genomic stability human pluripotent stem cells for biobanking
 
